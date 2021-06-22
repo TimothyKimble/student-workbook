@@ -11,3 +11,5 @@ By having mutliple branches, developers can test code in safe environments where
 ## What is the difference between Git and GitHub
 
 The difference between Git and GitHub is that git is used as a local repository meanwhile GitHub is a remote repository that can be acessed and modified by other developers. 
+
+Afternoon: https://timothykimble.github.io/blog/

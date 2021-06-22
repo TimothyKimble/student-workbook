@@ -12,3 +12,5 @@ Specificity is built into css to determine what rules should be used if multiple
 
 Trying to debug your css code would be a major problem. If an element has multiple rules that are using the !important feature, it can break the CSS because it is not cascadding properly. 
 
+Afternoon Challenge: https://timothykimble.github.io/CoolSite/
+

@@ -11,4 +11,5 @@ unsplash.com , wix.com , https://codeworksacademy.com/fs-student-guide/resources
 
 I think that design can really affect how or even if people interact with your webpage. You could have all the functionality imaginable created for your project, but if it doesn't appeal to the user it won't be worth the time spent. I think having a good design to your webpage can help establish trust with the user. I also think that designing a webpage correctly can affect the accessibility for users, and improve their experience. 
 
-https://github.com/TimothyKimble/CloneSite
+
+Afternoon Challenge https://github.com/TimothyKimble/CloneSite

@@ -2,7 +2,8 @@
 
 **1.** Which keywords are used to declare a variable in JavaScript?
 <!-- enter you answer in the space below -->
-```Var Let and Const
+```
+Var Let and Const
 
 ```
 **2.** What is the definition of a function?

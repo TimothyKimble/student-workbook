@@ -7,3 +7,6 @@ Provide a trap so the value of the key is being returned so as to not overide ge
 
 ## What are some of the benefits of the proxy object that we are using in our structure for applications?
 We can use proxies to hide important or personal information that we don't want users to access. We can also set traps to throw errors on validations such as passwords. 
+
+## Afternoon Challenge 
+https://github.com/TimothyKimble/gregslist-mvc

@@ -9,6 +9,5 @@ You might use a virtual property when you want to fetch certain data without cre
 
 
 
-
-## Afternoon Challenge 
-https://github.com/TimothyKimble/Galaxies
+## Afternoon Challenge
+Hackathon Prep

@@ -1,0 +1,9 @@
+# Reflect on your partner project (Day 4)
+## Which principles from this weeks reading did you implement?
+The biggest thing that my partner and I tried to implement was the use of Partner Programming. We wanted to make sure that we both understood what exactly we were trying to accomplish so that we could stay on track to finish our product on time. We tried to remember to switch off who was the Driver and Navigator frequently to give ourselves the experience of both roles, and prevent burnout. We also tried to make the best user experience we could by following the figma that we were given as closely as we could mimic it. 
+## What went well?
+We had great communication throughout our program, and we were able to accomplish more than what was required of us. By communicating effectively, we were able to finish on time as well as improve upon what was asked of us. We also were able to learn new things as we developed our application by asking our mentors questions about our design and how best to improve it or make it function. 
+## What would you do differently?
+Although our product looked great, it was definitely lacking some functionallity. Some of our pages required a strange sort of reload to get the data we desired, and that can lead to terrible user experiences. If I could change anything, I would go back and restructure our data in a way that is easy to understand so that we could fix those minor issues that provided a bad user experience. I also would have tried to be more vocal when I was the driver so that I could better understand what exactly the navigator wanted me to do, and what I was trying to do. 
+## Afternoon Challenge Partner Checkpoint
+https://github.com/TimothyKimble/Sprintr

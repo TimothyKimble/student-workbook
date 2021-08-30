@@ -10,3 +10,6 @@ The fourth type of certificate is the Unified Communications SSL Certificate. Un
 A fith type of certificate is the Single Domain SSL Certificate. A Single Domain SSL protects one domain. The thing to remember about this certificate is that you can't use it to protect subdomains or a completely different domain.
 ## What are some benefits of using SSL certificates?
 A significant benefit of SSL certificates is the fact that they will help you gain visitors' trust. By using SSL certificates we can reassure potential clients, and the user, that our website is secure and it's safe for them to use their personal information.
+
+## Afternoon Challenge (Capstones) 
+https://github.com/hollidavis/Tally

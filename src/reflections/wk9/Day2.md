@@ -7,3 +7,6 @@ GitHub actions make it easy to  automate all your software workflows, whether it
 ## What types of trigger actions can a workflow use? What do they do?
 There are different types of events that you can call for whenever you're working with an action including workflows, schedules, webhooks, externals
 These workflow events manage the triggering of the actions. Something like a push, a pull request, or a fork that refers to changes in the repository.
+
+## Afternoon Challenge (Capstones) 
+https://github.com/hollidavis/Tally

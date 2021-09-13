@@ -30,7 +30,7 @@ abstract class Car
 **5.** In the example what is the access modifier of the `Start()` method?
 <!-- enter you answer in the space below -->
 ```
-
+It is set to public
 ```
 **6.** In the example what is `string` an indication of?
 <!-- enter you answer in the space below -->
@@ -40,12 +40,12 @@ string is the indication of the type of return that should come from the functio
 **7.** In the example what is `abstract` preventing?
 <!-- enter you answer in the space below -->
 ```
-
+The abstract is preventing other classes from inheriting the class car that were previously marked as virtual. 
 ```
 **8.** In the example what is the purpose of `virtual`?
 <!-- enter you answer in the space below -->
 ```
-
+The override keyword is used to extend or modify a virtual/abstract method, property, indexer, or event of base class into a derived class.
 ```
 **9.** Name four access modifiers:
 <!-- enter you answer in the space below -->

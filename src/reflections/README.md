@@ -1,12 +1,11 @@
 # Find More About me here:
 
 ## Social Media
-  - [Follow Me on Twitter](https://twitter.com)
-  - [Connect on LinkedIn](https://linkedin.com)
+  - [Connect on LinkedIn](https://www.linkedin.com/in/timothykimble/)
 ## About Me
-  - [My Github](https://github.com)
-  - [Portfolio](https://github.com)
+  - [My Github](https://github.com/TimothyKimble)
+  - [Portfolio](https://timothykimble.github.io/TimothyKimble/)
 ## Contact
-  - Phone: 123-456-7890
-  - Email: student@student.com
+  - Phone: 986-666-9209
+  - Email: TimothyAKimble@gmail.com
   
